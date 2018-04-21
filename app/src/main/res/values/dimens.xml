@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="cardViewElevation">5dp</dimen> <!-- okresla stopien cieniowania cardViews-->
+    <dimen name="cardViewCornerRadius">15dp</dimen><!-- okresla zaokraglenie cardViews-->
+    <dimen name="cardViewTextContentPadding">5dp</dimen><!--okresla jaki ma byc padding elementow teksotwych w cardViews-->
+    <dimen name="disableAlpha">0.4</dimen><!-- okresla jaka jest wartosc alpha elementow wylaczaonych-->
+    <dimen name="loginWaysImageHeight">70dp</dimen><!-- okresla wysokosc obrazkow do innego logowania  -->
+    <dimen name="loginWaysImageWidth">70dp</dimen><!-- okresla szerokosc obrazkow do innego logowania  -->
+    <dimen name="loginInputHeight">40dp</dimen><!-- okresla jak wysokie maja byc cardViews dla inputów teksowych w nich -->
+    <dimen name="loginInputTextSize">14sp</dimen><!-- okresla rozmiar czcionki dla inputów  -->
+    <dimen name="home_panelCardMargin">5dp</dimen>
+</resources>

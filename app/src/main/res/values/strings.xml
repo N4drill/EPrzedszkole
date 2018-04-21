@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ePrzedszkole</string>
+    <string name="title_activity_home_panel">HomePanelActivity</string>
+
+    <string name="loginPassword_hint">password</string>
+    <string name="loginInfoText">Log in to the application or choose other way</string>
+    <string name="loginButtonText">Log In</string>
+    <string name="loginEmail_hint">email@example.com</string>
+
+    <string name="child">Dzieci</string>
+    <string name="diary">Dziennik</string>
+    <string name="table">Tablica</string>
+    <string name="chat">Wiadomości</string>
+    <string name="calendar">Kalendarz</string>
+    <string name="settings">Ustawienia</string>
+    <string name="edit">Edytuj dane</string>
+    <string name="default_email">test@przedszkole.xyz</string>
+    <string name="default_password">test</string>
+
+</resources>
